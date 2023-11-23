@@ -2,4 +2,4 @@
 
 This is where the copy will go.
 
-![Image of a dog](..images/dog.jpg)
+![Image of a dog](../images/dog.jpg)
